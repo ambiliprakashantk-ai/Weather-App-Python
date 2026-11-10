@@ -22,4 +22,4 @@ A Python weather application that retrieves live weather information for any cit
 
 - **Language:** Python 3.x
 - **Libraries:** `requests`, `python-dotenv`
-- **API:** OpenWeatherMap (or the weather API you used)
+- **API:** OpenWeatherMap 
