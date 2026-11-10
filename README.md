@@ -2,8 +2,6 @@
 
 A Python weather application that retrieves live weather information for any city. Enter a city name and the app fetches the current temperature, humidity, and weather conditions from a weather API and displays them in a clear format.
 
-> Developed as **Project 6** of my internship at **CogniRise InfoTech**.
-
 ---
 
 ## 📌 Features
